@@ -1,137 +1,146 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="6WlH4hdONRjB9cL21IKL">
-    <mxGraphModel dx="1898" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <object label="" id="tdBihgwaQIKcNAurHBaF-19">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
+            <mxGeometry x="422" y="145" width="160" height="160" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="tdBihgwaQIKcNAurHBaF-30" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;A thin REST façade for the frontend in front of the workflow engine.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;These should enable starting, retrieve status and forms for every step of&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;a user interaction workflow.&lt;/span&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
+          <mxGeometry x="425" y="305" width="165" height="145" as="geometry" />
+        </mxCell>
         <object label="" id="tdBihgwaQIKcNAurHBaF-1">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
             <mxGeometry x="40" y="145" width="160" height="160" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350" width="150" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="440" as="sourcePoint" />
             <mxPoint x="405" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="422" y="340" width="163" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-12" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Define user interaction flow&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-12" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Define user interaction flow&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="90" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-15" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Aligns business and BDT on the definition of selected user interactions.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=-25;" vertex="1" parent="1">
-          <mxGeometry x="41.5" y="340" width="140" height="120" as="geometry" />
+        <mxCell id="tdBihgwaQIKcNAurHBaF-15" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Aligns business and BDT on the definition of selected user interactions.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=-25;" parent="1" vertex="1">
+          <mxGeometry x="50" y="520" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Deliverables&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Deliverables&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-15" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Value capture&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-37.5" y="390" width="105" height="30" as="geometry" />
+        <mxCell id="tdBihgwaQIKcNAurHBaF-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Value capture&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="560" width="105" height="30" as="geometry" />
         </mxCell>
-        <object label="" id="tdBihgwaQIKcNAurHBaF-19">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-            <mxGeometry x="422" y="135" width="160" height="160" as="geometry" />
-          </mxCell>
-        </object>
         <object label="" id="tdBihgwaQIKcNAurHBaF-20">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
             <mxGeometry x="798" y="145" width="160" height="160" as="geometry" />
           </mxCell>
         </object>
         <object label="" id="tdBihgwaQIKcNAurHBaF-21">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
             <mxGeometry x="606" y="145" width="160" height="160" as="geometry" />
           </mxCell>
         </object>
         <object label="" id="tdBihgwaQIKcNAurHBaF-22">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
             <mxGeometry x="231.5" y="144" width="160" height="160" as="geometry" />
           </mxCell>
         </object>
         <object label="" id="tdBihgwaQIKcNAurHBaF-23">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
             <mxGeometry x="990" y="145" width="160" height="160" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-14" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Establish a Workflow API&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-14" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Establish a Workflow API&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="425" y="75" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-24" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Pilot dedicated business orchestrator&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="85" width="160" height="40" as="geometry" />
+        <mxCell id="tdBihgwaQIKcNAurHBaF-24" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Leverage frontend orchestrations to include backend&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;interactions&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="50" width="170" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-25" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Business decisioning&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-25" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Implement business rules engine&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="606" y="85" width="164" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-26" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Lightweight orchestration behind façade&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-26" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Lightweight orchestration behind façade&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="231.5" y="84" width="164" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-27" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Progressive migration &amp;amp; expansion&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-27" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Progressive migration &amp;amp; expansion&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="996" y="85" width="154" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-28" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Define targeted user interaction workflow with h&lt;/span&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;appy and failure paths&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=-25;" vertex="1" parent="1">
-          <mxGeometry x="42" y="135" width="158" height="130" as="geometry" />
+        <mxCell id="tdBihgwaQIKcNAurHBaF-28" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Define targeted user interaction workflow with h&lt;/span&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;appy and failure paths&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Sets measurable SLAs and guardrails&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=-25;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="158" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-30" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;A thin REST façade for the frontend in front of orchestrators.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Exposed via Azure APIM&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Implement initial workflows in Logic Apps or Durable Functions.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Start creating executable&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
-          <mxGeometry x="423.5" y="120" width="160" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="445" as="sourcePoint" />
             <mxPoint x="590" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="450" as="sourcePoint" />
             <mxPoint x="210" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="980" y="435" as="sourcePoint" />
             <mxPoint x="980" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-38" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;A thin REST/GraphQL façade in front of orchestrators&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Exposed via Azure APIM&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
-          <mxGeometry x="830" y="620" width="160" height="130" as="geometry" />
+        <mxCell id="tdBihgwaQIKcNAurHBaF-38" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;A thin REST/GraphQL façade in front of orchestrators&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Exposed via Azure APIM&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
+          <mxGeometry x="1191.5" y="520" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-40" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Create executable frontend workflows, in a lightweight workflow tool.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Create UI-definitions for every step of the customer interaction in the workflow.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Define Workflow Events like started, failed, SLA breached to Event Grid/Service Bus Topic&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
-          <mxGeometry x="233.5" y="129" width="160" height="190" as="geometry" />
+        <mxCell id="tdBihgwaQIKcNAurHBaF-40" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Create executable frontend workflows, in a lightweight workflow tool.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Create UI-definitions for every step of the customer interaction in the workflow.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Define Workflow Events like started, failed, SLA breached to Event Grid/Service Bus Topic&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
+          <mxGeometry x="235.5" y="305" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="230" y="349" width="163" height="130" as="geometry" />
+        <mxCell id="tdBihgwaQIKcNAurHBaF-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1188.5" y="346" width="163" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="603" y="349" width="163" height="130" as="geometry" />
+        <mxCell id="tdBihgwaQIKcNAurHBaF-44" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Visibility into the status of our customers interaction with frontend services.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Customer analytics based on executions of frontend workflows.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Insights into the per workflow SLAs based on the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;execustions of frontend workflows.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
+          <mxGeometry x="235.5" y="520" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="796.5" y="349" width="163" height="130" as="geometry" />
+        <mxCell id="tdBihgwaQIKcNAurHBaF-45" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Introduce a decision layer for eligibility, routing, backup rules etc.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Define SLA as rules per workflow&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
+          <mxGeometry x="610" y="310" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-44" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Visibility into the status of our customers interaction with frontend services.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Customer analytics based on exceptions of frontend workflows.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Insights into the per workflow SLAs based on the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;exceptions of frontend workflows.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="160" height="210" as="geometry" />
+        <mxCell id="tdBihgwaQIKcNAurHBaF-46" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Frontend focused&lt;br&gt;DSP. Digital Sales Person. New Agreement, Change Agreement&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="510" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-45" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Introduce a decision layer for eligibility, routing, backup rules etc.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;SLA for the per workflow&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
-          <mxGeometry x="603" y="140" width="160" height="130" as="geometry" />
+        <mxCell id="tdBihgwaQIKcNAurHBaF-39" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Starting to eliminate business logic in our frontends and transitioning them to pure distribution platforms.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;App &amp;amp; web call the same contract, implementing the same user interaction workflows.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;This will be the beginning of eliminating channel fragmentation.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;This will remove the dependency between backend and frontend development. This will reduce the time to marked of new services.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
+          <mxGeometry x="430" y="520" width="165" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-46" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Frontend focused&lt;br&gt;DSP. Digital Sales Person. New Agreement, Change Agreement&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
-          <mxGeometry x="41.5" y="510" width="160" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-47" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Sets measurable SLAs and guardrails&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
-          <mxGeometry x="810" y="530" width="160" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-39" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Starting to eliminate business logic in our frontends and transitioning them to pure distribution platforms.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;App &amp;amp; web call the same contract, implementing the same user interaction workflows.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;This will starting the journey to eliminate channel fragmentation.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
-          <mxGeometry x="423.5" y="330" width="160" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="435" as="sourcePoint" />
             <mxPoint x="780" y="125" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oAHMmAZ6JlnFvIEWj778-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cross cutting&lt;/h1&gt;&lt;p&gt;- Business readiness&lt;/p&gt;&lt;p&gt;- Compliance/GDPR&lt;/p&gt;&lt;p&gt;- Operations&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="24" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oAHMmAZ6JlnFvIEWj778-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="760" as="sourcePoint" />
+            <mxPoint x="1060" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oAHMmAZ6JlnFvIEWj778-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="760" as="sourcePoint" />
+            <mxPoint x="1060" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oAHMmAZ6JlnFvIEWj778-4" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Eliminating business rules from the frontend&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Centralize business rules handling, and stop them being scattered in our channels.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Business rules can be established and changed with greater speed and ease.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
+          <mxGeometry x="606" y="520" width="144" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="oAHMmAZ6JlnFvIEWj778-5" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Extend the lightweight frontend definitions to include backend interactions.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Incorporate the business decision layer into the workflows.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
+          <mxGeometry x="798" y="320" width="182" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oAHMmAZ6JlnFvIEWj778-6" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;A thin REST/GraphQL façade in front of orchestrators&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Exposed via Azure APIM&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
+          <mxGeometry x="805" y="520" width="160" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
