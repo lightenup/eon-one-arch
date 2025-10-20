@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="6WlH4hdONRjB9cL21IKL">
-    <mxGraphModel dx="2839" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2348" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,7 +166,7 @@
         <mxCell id="dyHPdZxvXoWVpWreSxUG-10" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Provide EKS with comprehensive insight into customer behaviour&amp;nbsp; on the front-ends including our performance in relationship with SLAs, breaches etc...&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Enable EKS to monitor and assist the customers with their front-end interactions in real time.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
           <mxGeometry x="429.5" y="787.5" width="162" height="354" as="geometry" />
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" edge="1" parent="1">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-524" y="1300" as="sourcePoint" />
             <mxPoint x="594.5" y="1300" as="targetPoint" />
@@ -177,7 +177,7 @@
             <mxPoint x="-430" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" edge="1" parent="1">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-525" y="1340" as="sourcePoint" />
             <mxPoint x="593.5" y="1340" as="targetPoint" />
@@ -188,7 +188,7 @@
             <mxPoint x="-436" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" edge="1" parent="1">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-524" y="1260" as="sourcePoint" />
             <mxPoint x="594.5" y="1260" as="targetPoint" />
@@ -199,7 +199,7 @@
             <mxPoint x="-430" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" edge="1" parent="1">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-523" y="1210" as="sourcePoint" />
             <mxPoint x="595.5" y="1210" as="targetPoint" />
