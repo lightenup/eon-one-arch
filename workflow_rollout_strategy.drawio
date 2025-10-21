@@ -1,31 +1,31 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="6WlH4hdONRjB9cL21IKL">
-    <mxGraphModel dx="2839" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2205" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object label="" id="dyHPdZxvXoWVpWreSxUG-6">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillOpacity=100;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillOpacity=100;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
             <mxGeometry x="231.5" y="777.5" width="160" height="375" as="geometry" />
           </mxCell>
         </object>
         <object label="" id="dyHPdZxvXoWVpWreSxUG-5">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillOpacity=100;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillOpacity=100;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
             <mxGeometry x="40.5" y="777.5" width="160" height="375" as="geometry" />
           </mxCell>
         </object>
         <object label="" id="dyHPdZxvXoWVpWreSxUG-4">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillOpacity=100;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillOpacity=100;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
             <mxGeometry x="-146" y="777.5" width="160" height="375" as="geometry" />
           </mxCell>
         </object>
         <object label="" id="dyHPdZxvXoWVpWreSxUG-3">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillOpacity=100;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillOpacity=100;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
             <mxGeometry x="-336" y="777.5" width="160" height="375" as="geometry" />
           </mxCell>
         </object>
         <object label="" id="dyHPdZxvXoWVpWreSxUG-2">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillOpacity=100;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillOpacity=100;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
             <mxGeometry x="-527.5" y="777.5" width="160" height="375" as="geometry" />
           </mxCell>
         </object>
@@ -111,7 +111,7 @@
             <mxPoint x="412.5" y="342.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdBihgwaQIKcNAurHBaF-40" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Create executable frontend workflows, in a lightweight workflow tool.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Create UI-definitions for every step of the customer interaction in the workflow.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Define Workflow Events like started, failed, SLA breached to Event Grid/Service Bus Topic&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
+        <mxCell id="tdBihgwaQIKcNAurHBaF-40" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Create executable frontend workflows, in a lightweight workflow tool.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Create UI-definitions for every step of the customer interaction in the workflow.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Create a mechanism to publish UIs of every workflow step over to the front-end.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Define Workflow Events like started, failed, SLA breached to Event Grid/Service Bus Topic&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
           <mxGeometry x="-336" y="373.5" width="160" height="354" as="geometry" />
         </mxCell>
         <mxCell id="tdBihgwaQIKcNAurHBaF-44" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Visibility into the status of our customers interaction with frontend services.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Customer analytics based on executions of frontend workflows.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Insights into the per workflow SLAs based on the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;execustions of frontend workflows.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
@@ -151,61 +151,61 @@
           <mxGeometry x="234" y="787.5" width="155" height="170" as="geometry" />
         </mxCell>
         <object label="" id="dyHPdZxvXoWVpWreSxUG-7">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
             <mxGeometry x="432.5" y="361.5" width="160" height="375" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-8" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Build customer service consoles that enable EKS agents and administrators access to customer interactions on the front-ends.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Enable EKS to get insight into the established SLAs and breaches to them&lt;/span&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-8" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Build customer service consoles that enable EKS agents and administrators access to customer interactions on the front-ends.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Enable EKS to get insight into the established SLAs and breaches to them&lt;/span&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
           <mxGeometry x="431.5" y="372" width="162" height="354" as="geometry" />
         </mxCell>
         <object label="" id="dyHPdZxvXoWVpWreSxUG-9">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
             <mxGeometry x="431.5" y="777.5" width="160" height="375" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-10" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Provide EKS with comprehensive insight into customer behaviour&amp;nbsp; on the front-ends including our performance in relationship with SLAs, breaches etc...&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Enable EKS to monitor and assist the customers with their front-end interactions in real time.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" vertex="1" parent="1">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-10" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Provide EKS with comprehensive insight into customer behaviour&amp;nbsp; on the front-ends including our performance in relationship with SLAs, breaches etc...&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Enable EKS to monitor and assist the customers with their front-end interactions in real time.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=2;spacingLeft=-25;" parent="1" vertex="1">
           <mxGeometry x="429.5" y="787.5" width="162" height="354" as="geometry" />
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" edge="1" parent="1">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-524" y="1300" as="sourcePoint" />
             <mxPoint x="594.5" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-13" value="Investment in capabilities" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="dyHPdZxvXoWVpWreSxUG-11">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-13" value="Investment in capabilities" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" parent="dyHPdZxvXoWVpWreSxUG-11" vertex="1" connectable="0">
           <mxGeometry x="-0.0753" y="-4" relative="1" as="geometry">
             <mxPoint x="-430" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" edge="1" parent="1">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-525" y="1340" as="sourcePoint" />
             <mxPoint x="593.5" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-15" value="Shorter time to market" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="dyHPdZxvXoWVpWreSxUG-14">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-15" value="Shorter time to market" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" parent="dyHPdZxvXoWVpWreSxUG-14" vertex="1" connectable="0">
           <mxGeometry x="-0.0753" y="-4" relative="1" as="geometry">
             <mxPoint x="-436" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" edge="1" parent="1">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-524" y="1260" as="sourcePoint" />
             <mxPoint x="594.5" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-17" value="Business logic coherence" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="dyHPdZxvXoWVpWreSxUG-16">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-17" value="Business logic coherence" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" parent="dyHPdZxvXoWVpWreSxUG-16" vertex="1" connectable="0">
           <mxGeometry x="-0.0753" y="-4" relative="1" as="geometry">
             <mxPoint x="-430" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" edge="1" parent="1">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#7D7D7D;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-523" y="1210" as="sourcePoint" />
             <mxPoint x="595.5" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyHPdZxvXoWVpWreSxUG-19" value="Increase in modularity and separation of development areas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="dyHPdZxvXoWVpWreSxUG-18">
+        <mxCell id="dyHPdZxvXoWVpWreSxUG-19" value="Increase in modularity and separation of development areas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" parent="dyHPdZxvXoWVpWreSxUG-18" vertex="1" connectable="0">
           <mxGeometry x="-0.0753" y="-4" relative="1" as="geometry">
             <mxPoint x="-310" y="-14" as="offset" />
           </mxGeometry>

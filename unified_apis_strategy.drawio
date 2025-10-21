@@ -1,0 +1,74 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="WeDSPlYOhE3PcpbaEMmI">
+    <mxGraphModel dx="1035" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="" id="W133eaKkpAiB_3DJQCo2-3">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillOpacity=100;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+            <mxGeometry x="82.5" y="555" width="160" height="375" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" id="W133eaKkpAiB_3DJQCo2-6">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="82.5" y="140" width="160" height="375" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-8" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Unify the existing back-end for front-ends and the API layer.&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80.5" y="71.25" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-9" value="&lt;font&gt;&lt;b&gt;Deliverables&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-10" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Simplified setup of back-end for front-end combined with the API layer.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Reduction in cost of ownership of the front-end APIs.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Shorter time to market of the services when it comes to their dependency on development and maintenance of the APIs.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=-25;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="565" width="160" height="232.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-11" value="&lt;font&gt;&lt;b&gt;Value capture&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="715" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-15" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Combine the two existing back-end for front-end layers with the (front-end) API layer provided by APIHub,&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Transfer the ownership and responsibility of the front-end APIs to the new BizDevOps team, allowing them to build their own front-end APIs in a distributed API platform.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Define the ownership model and responsibility of different stakeholders in the distributed API platform.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Re-routing the existing API usages by the app and web to the new API platform.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingLeft=-25;" vertex="1" parent="1">
+          <mxGeometry x="81.5" y="139" width="158" height="371" as="geometry" />
+        </mxCell>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="252.5" y="935" as="sourcePoint" />
+            <mxPoint x="252.5" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80.5" y="967.5" as="sourcePoint" />
+            <mxPoint x="418" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-22" value="Investment in capabilities" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="W133eaKkpAiB_3DJQCo2-21">
+          <mxGeometry x="-0.0753" y="-4" relative="1" as="geometry">
+            <mxPoint x="-56" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80.5" y="1007.5" as="sourcePoint" />
+            <mxPoint x="420" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-24" value="Faster time to market" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="W133eaKkpAiB_3DJQCo2-23">
+          <mxGeometry x="-0.0753" y="-4" relative="1" as="geometry">
+            <mxPoint x="-75" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80.5" y="1047.5" as="sourcePoint" />
+            <mxPoint x="420" y="1048" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W133eaKkpAiB_3DJQCo2-26" value="Lower cost of delivery" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="W133eaKkpAiB_3DJQCo2-25">
+          <mxGeometry x="-0.0753" y="-4" relative="1" as="geometry">
+            <mxPoint x="-67" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
